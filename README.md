@@ -17,8 +17,8 @@ I build modern, interactive web experiences with a focus on clean code, thoughtf
 
 ### What I Do
 
-* ⚡ Build responsive web applications
-* 🎨 Design clean and modern interfaces
-* 🧩 Create reusable UI components
-* 🔧 Develop full-stack features with modern technologies
-* 🚀 Turn ideas into real products
+*  Build responsive web applications
+*  Design clean and modern interfaces
+*  Create reusable UI components
+*  Develop full-stack features with modern technologies
+*  Turn ideas into real products
